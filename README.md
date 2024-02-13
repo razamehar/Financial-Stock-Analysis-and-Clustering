@@ -1,8 +1,7 @@
 # Financial Stock Analysis and Clustering
-In a thorough analysis of 157 US Energy stocks throughout January to December '23, I employed advanced clustering techniques, including KMeans, Hierarchical, and Spectral Clustering, to identify bullish and bearish trends. The clustering methodology revealed overbought and overpriced stocks, profitable investments, and stocks facing losses. Additionally, a focus on volatility analysis pinpointed the most volatile stocks in the dataset. This comprehensive approach enables investors to make informed decisions and manage risks effectively. Furthermore, seamless integration with Kafka ensures real-time updates and subscriptions for stakeholders, enhancing accessibility to critical market insights.
 
 ## Project Overview
-This project involves analyzing 157 US-based Energy sector stocks from January to December 2023. 
+In a thorough analysis of 157 US Energy stocks throughout January to December '23, I employed advanced clustering techniques, including KMeans, Hierarchical, and Spectral Clustering, to identify bullish and bearish trends. The clustering methodology revealed overbought and overpriced stocks, profitable investments, and stocks facing losses. Additionally, a focus on volatility analysis pinpointed the most volatile stocks in the dataset. This comprehensive approach enables investors to make informed decisions and manage risks effectively. Furthermore, seamless integration with Kafka ensures real-time updates and subscriptions for stakeholders, enhancing accessibility to critical market insights.
 
 ### Analysis Steps
 1. **Data Distribution Analysis:**
