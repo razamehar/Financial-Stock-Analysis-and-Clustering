@@ -57,4 +57,4 @@ The processed data is seamlessly integrated with Kafka, enabling subscription by
 This project is licensed under the Raza Mehar License. See the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contact
-For any questions or clarifications, please contact Raza Mehar at [raza.mehar@gmail.com].
+For any questions or clarifications, please contact Raza Mehar at [raza.mehar@gmail.com], Pujan Thapa at [impujan@outlook.com] or Syed Najam Mehdi at [najam.electrical.ned@gmail.com].
