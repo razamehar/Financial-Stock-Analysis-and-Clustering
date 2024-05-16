@@ -15,9 +15,25 @@ In a thorough analysis of 157 US Energy stocks from January to December '23, I e
 
 4. **Risk Analysis:**
    - Categorizing stocks as Profitable, Unprofitable, or Volatile.
+     
+5. **Cluster Analysis**
+   - Utilizing clustering techniques like KMeans, Agglomerative Hierarchical, and Spectral Clustering to identify distinct groups among the analyzed stocks.
+   
+### Observations
+#### Stock Data Distribution Analysis
+<div>
+   <img src="docs/img1.png">
+</div>
 
-### Clustering Techniques
-Utilizing clustering techniques like KMeans, Agglomerative Hierarchical, and Spectral Clustering to identify distinct groups among the analyzed stocks.
+#### Top and Bottom 10 Stocks
+<div>
+   <img src="docs/topbottoms.png">
+</div>
+
+#### Clusters Visualization
+<div>
+   <img src="docs/clusters.png">
+</div>
 
 ### Findings
 The analysis reveals a common theme among energy sector stocks, offering a balance of medium to high returns with relatively low volatility.
